@@ -6,10 +6,10 @@
   "author": "Hegezcc",
   "dependencies": {
     "discord.io": "^2.5.3",
-    "discord.js": "^11.2.1",
-    "lodash": "^4.17.4",
+    "discord.js": "^11.5.0",
+    "lodash": "^4.17.11",
     "redis": "^2.8.0",
-    "request": "^2.83.0",
-    "winston": "^2.4.0"
+    "request": "^2.88.0",
+    "winston": "^2.4.4"
   }
 }
